@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/*small text section within company name*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 
+/*Nav Bar link text*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*main image of the website home page*/
 .hero {
     height: 800px;
     width: 100%;
