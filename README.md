@@ -18,4 +18,4 @@ I hope to continue improving accessibilty beyond the desktop design and provide 
 
 Repository: https://github.com/jbranch6432/jb-refactor-challenge1.git
 
-URL: file:///C:/Users/schwu/Desktop/jb-refactor-challenge1/Develop/index.html#social-media-marketing
+URL: https://jbranch6432.github.io/jb-refactor-challenge1/
